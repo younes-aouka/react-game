@@ -1,6 +1,6 @@
 import Car from "./Car";
 import Road from "./Road";
-import Terrain from "./terrain";
+import Terrain from "./Terrain";
 import {useStore} from "./store";
 import GameOverWindow from "./GameOverWindow";
 import GameStarterWindow from "./GameStarterWindow";
